@@ -1,0 +1,14 @@
+Aurelia Ang7:16 PM
+Julio, the mkdir command creates a new folder. The cd command takes you to a specified folder
+Spencer P7:17 PM
+CD Stands for Change Directory, a directory is just another name for a folder.
+
+• Summary of Bash Commands •
+mkdir : make directory (aka a folder)
+cd : change directory
+touch : creates a file
+echo : writes a message; you can write a message into a file using this command
+ls : lists the existing files in your current folder/directory
+pwd : print working directory, which shows you the path of the folder you're currently in
+rm : removes a file
+rm -r : removes a directory/folder
